@@ -1,6 +1,6 @@
 import time
-from order_execute import avg_exec_price, exec_price_one_order, order
-from binance_utils import aggre, measure_liquidity, get_order_book_data, get_tick_size
+from order_execute import avg_exec_price, exec_price_one_order
+from binance_utils import aggre, measure_liquidity, get_order_book_data, get_tick_size, order
 from hawkes_process import estimate_hawkes_parameters, calculate_intensity
 
 
