@@ -21,3 +21,6 @@ Run `run.py` to start the execution process. Input parameters `symbol, n, order_
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Warning 
+The tick library used in this repository is still experimental on Windows systems. If you are to utilise this algorithim please note you are responsibile for taking on the financial risk of executing orders with it. 
